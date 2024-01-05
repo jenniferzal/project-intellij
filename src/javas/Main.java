@@ -12,8 +12,4 @@ public class Main
         System.out.println(message);
     }
 
-    private static void printHello()
-    {
-        System.out.println("Hello");
-    }
 }
